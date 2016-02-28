@@ -1,0 +1,26 @@
+_repo: The-Truth-about-Jesus-Is-He-a-Myth_6107
+creator:
+  author:
+    agent_name: Mangasarian, M. M. (Mangasar Mugurditch)
+    alias: Mangasarian, Mangasar Mugurditch
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '1951'
+    url: http://www.gutenberg.org/2009/agents/1951
+    wikipedia: http://en.wikipedia.org/wiki/M._M._Mangasarian
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcsh 'Jesus Christ -- Historicity'
+- !lcc 'BL'
+title: 'The Truth about Jesus : Is He a Myth?'
+url: http://www.gutenberg.org/ebooks/6107
