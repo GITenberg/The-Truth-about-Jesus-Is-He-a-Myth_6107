@@ -1,5 +1,5 @@
 _repo: The-Truth-about-Jesus-Is-He-a-Myth_6107
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Rationalism'
 - !lcsh 'Jesus Christ -- Historicity'
 - !lcc 'BL'
+- GITenberg
 title: 'The Truth about Jesus : Is He a Myth?'
 url: http://www.gutenberg.org/ebooks/6107
